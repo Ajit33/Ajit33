@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/justajit33" target="blank"><img src="https://twitter.com/justajit33?logo=twitter&style=for-the-badge" alt="ajit33" /></a> </p>
 
-- 🔭 I’m currently working on **Blog appliction using Reactjs**
+- 🔭 I’m currently working on **ParkNow a vechile parking and droping app using Nextjs and Nodejs and Typescript**
 
-- 🌱 I’m currently learning **Reactjs,Nextjs,Typescript,AWS**
+- 🌱 I’m currently learning **Reactjs,Nextjs,Typescript,AWS,Docker,Nodejs,**
 
-- 💬 Ask me about **Reactjs,javascript,Reduxtoolkit,DSA & algo**
+- 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo**
 
 - 📫 How to reach me **ajitkumarpradhan595@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view](https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view](https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view](https://drive.google.com/file/d/1Apz3dNvMn9ivdrSjm6rZq36xpVnJKjuv/view?usp=sharing)
 
 - ⚡ fact **I am the most Hardworking in the room.**
 
