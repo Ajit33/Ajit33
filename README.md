@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/justajit33" target="blank"><img src="https://twitter.com/justajit33?logo=twitter&style=for-the-badge" alt="ajit33" /></a> </p>
 
-- 🔭 I’m currently working on **ParkNow a vechile parking and droping app using Nextjs and Nodejs and Typescript**
+- 🔭 I’m currently working on **sync-space a slack clone app using Nextjs and Nodejs and Typescript**
 
 - 🌱 I’m currently learning **Reactjs,Nextjs,Typescript,AWS,Docker,Nodejs,**
 
