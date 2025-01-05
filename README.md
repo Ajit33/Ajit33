@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ajitkumarpradhan595@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view](https://drive.google.com/file/d/1GzqY3IwMrVXQkErRiz5aEdWN6H3K2HG3/view](https://drive.google.com/file/d/1Apz3dNvMn9ivdrSjm6rZq36xpVnJKjuv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qAovws0I-pdZaEPeRC0NcBBUWP4MgrG_/view?usp=sharing]
 
 - ⚡ fact **I am the most Hardworking in the room.**
 
