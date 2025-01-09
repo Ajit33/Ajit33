@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/justajit33" target="blank"><img src="https://twitter.com/justajit33?logo=twitter&style=for-the-badge" alt="ajit33" /></a> </p>
 
-- 🔭 I’m currently working on **calScheduler a cal.com clone app using Nextjs and Nodejs and Typescript**
+- 🔭 I’m currently working on **Cricket tournamnet organising application**
 
-- 🌱 I’m currently learning **Reactjs,Nextjs,Typescript,AWS,Docker,Nodejs,**
+- 🌱 I’m currently learning **GoLang,**
 
 - 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo**
 
