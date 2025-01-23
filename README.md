@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qAovws0I-pdZaEPeRC0NcBBUWP4MgrG_/view?usp=sharing]
 
-- ⚡ fact **I am the most Hardworking in the room.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
