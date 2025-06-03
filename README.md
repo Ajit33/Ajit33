@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cricket tournamnet organising application**
 
-- 🌱 I’m currently learning **GoLang,**
+- 🌱 I’m currently learning **Solana,**
 
 - 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo**
 
