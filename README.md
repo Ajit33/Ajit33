@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/justajit33" target="blank"><img src="https://twitter.com/justajit33?logo=twitter&style=for-the-badge" alt="ajit33" /></a> </p>
 
-- 🔭 I’m currently working on **Cricket tournamnet organising application**
+- 🔭 I’m currently working on **SentinelAuth**
 
-- 🌱 I’m currently learning **Solana,**
+- 🌱 I’m currently learning **Web3,Ai/Ml**
 
-- 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo**
+- 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo,Backend Architecture**
 
 - 📫 How to reach me **ajitkumarpradhan595@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qAovws0I-pdZaEPeRC0NcBBUWP4MgrG_/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kTHmwKFpkkJgN00bMREfDGNi1ujs3_eq/view?usp=drive_link]
 
 
 <h3 align="left">Connect with me:</h3>
