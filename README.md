@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/justajit33" target="blank"><img src="https://twitter.com/justajit33?logo=twitter&style=for-the-badge" alt="ajit33" /></a> </p>
 
-- 🔭 I’m currently working on **SentinelAuth**
+- 🔭 I’m currently working on **Api Pulse**
 
-- 🌱 I’m currently learning **Web3,Ai/Ml**
+- 🌱 I’m currently learning **Distributed architecture**
 
-- 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo,Backend Architecture**
+- 💬 Ask me about **Mern,Nextjs,Docker,DSA & algo,Backend Architecture, system design**
 
 - 📫 How to reach me **ajitkumarpradhan595@gmail.com**
 
