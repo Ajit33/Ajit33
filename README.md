@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ajitkumarpradhan595@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kTHmwKFpkkJgN00bMREfDGNi1ujs3_eq/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gK7knnd-dKWjimRNyQf84i87wM34wvpY/view?usp=drive_link]
 
 
 <h3 align="left">Connect with me:</h3>
